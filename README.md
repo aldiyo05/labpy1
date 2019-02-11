@@ -11,3 +11,5 @@ begitu seterusnya.
 else = jika ada input lain prin "salah"
 
 berikut adalah hasil dari program tsb
+
+![hasil rumus](https://user-images.githubusercontent.com/46733448/52572517-909a4e00-2e4a-11e9-8cf9-0e6f217e1a28.png)
